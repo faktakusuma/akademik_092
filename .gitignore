@@ -1,7 +1,0 @@
-# Kredensial dan variabel lingkungan
-.env
-*.env
-kredensial*.txt
-*.pem
-*.key
-*.log
