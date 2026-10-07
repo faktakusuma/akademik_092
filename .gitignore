@@ -1,11 +1,2 @@
-# Berkas Sensitif & Kredensial
 *.env
 kredensial*.txt
-
-# Sistem Operasi & Editor
-.DS_Store
-Thumbs.db
-.vscode/
-.idea/
-*.tmp
-*.log
