@@ -79,8 +79,8 @@ AI dimanfaatkan sebagai sarana bantu penyusunan dokumen, pemeriksaan struktur la
 
 ## 9. Catatan & Bukti Sinkronisasi Git
 * **URL Repositori Remote:** https://github.com/faktakusuma/akademik_096.git
-* **Kode Hash Commit:** e5a0ee2
-* **Keterangan Commit:** `p01: penyiapan lingkungan praktikum dan milestone proyek 1`
+* **Kode Hash Commit:** f347e4d
+* **Keterangan Commit:** `fix: menambahkan tautan gambar laporan`
 
 ---
 
