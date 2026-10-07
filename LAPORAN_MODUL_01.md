@@ -16,13 +16,14 @@
 * Mempraktikkan alur pencatatan dan sinkronisasi berkas pekerjaan menggunakan Git ke repositori GitHub.
 
 ## 2. Landasan Teori
-Database Management System (DBMS) merupakan sistem perangkat lunak utama yang berfungsi memproses, menyimpan, dan menjamin keamanan data secara terstruktur. MariaDB beroperasi dengan arsitektur *client-server*, di mana *service* `mysqld` bekerja di balik layar menerima instruksi kueri pada port 3306.
+Database Management System (DBMS) adalah merupakan system perangkat lunak utama yang berfungsi memproses,menyimpan ,dan menjamin keamanan data secara teratur dan terstrukur. MariaDB beroperasi dengan arsitektur *client-server*, di mana *service* `mysqld bekerja di balik layer menerima intruksi kueri pada port 3306
 
 ## 3. Hasil Langkah Percobaan
 
 ### a. Verifikasi Versi Server & Pengguna Aktif
 ![Verifikasi Versi](gambar%20langkah%20langkah/Gambar_02.png)  
-*Keterangan: Eksekusi perintah `SELECT VERSION(), CURRENT_USER();` di terminal MariaDB untuk mengecek versi engine dan akun terhubung.*
+*Keterangan: Eksekusi perintah `SELECT VERSION(), CURRENT_USER();` di terminal MariaDB untuk mengecek hasil versi engine dan akun yang terhubung.*
+
 
 ### b. Pemeriksaan Mode SQL Server
 ![Mode SQL](gambar%20langkah%20langkah/Gambar_03.png)  
@@ -75,7 +76,11 @@ Inisialisasi basis data dan user khusus proyek pribadi:
 Konfigurasi dasar server MariaDB berhasil dilakukan melalui CLI maupun phpMyAdmin. Penerapan akun dengan hak akses terbatas serta pengaturan mode `cookie` terbukti meningkatkan keamanan server secara efektif. Penggunaan Git dan GitHub memfasilitasi manajemen riwayat perubahan berkas secara rapi.
 
 ## 8. Pernyataan Penggunaan AI
-AI dimanfaatkan sebagai sarana bantu penyusunan dokumen, pemeriksaan struktur laporan, serta pemahaman konsep analisis teknis.
+Dalam penyusunan laporan ini, kecerdasan buatan (AI) digunakan sebatas alat bantu untuk:
+1. memeriksa tata bahasa dan struktur penulisan.
+2. membantu memahami komsep teori basis data.
+
+Seluruh proses eksekusi perintah SQL, konfigurasi lingkungan kerja XAMPP/phpMyAdmin, pengujian di terminal, serta pengambilan tangkapan layar dilakukan secara mandiri oleh penulis.
 
 ## 9. Catatan & Bukti Sinkronisasi Git
 * **URL Repositori Remote:** https://github.com/faktakusuma/akademik_096.git
