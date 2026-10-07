@@ -1,4 +1,4 @@
-# Proyek Basis Data - Perpustakaan Cendekia DI
+# Proyek Basis Data - Sistem Informasi Akademik
 
 ## Identitas Pengembang
 * **Nama:** M. Fakta Kusuma
@@ -6,4 +6,4 @@
 * **Kelas:** D
 
 ## Lingkup Layanan Organisasi
-Perpustakaan Cendekia DI mengelola inventarisasi bahan pustaka, keanggotaan mahasiswa, transaksi peminjaman serta pengembalian buku, hingga perhitungan denda keterlambatan secara otomatis.
+Sistem Informasi Akademik mengelola data civitas akademika, mencakup data mahasiswa, dosen, mata kuliah, jadwal perkuliahan, rencana studi (KRS), serta penilaian akademik secara terintegrasi.
