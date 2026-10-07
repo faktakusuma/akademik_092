@@ -78,8 +78,8 @@ Konfigurasi dasar server MariaDB berhasil dilakukan melalui CLI maupun phpMyAdmi
 AI dimanfaatkan sebagai sarana bantu penyusunan dokumen, pemeriksaan struktur laporan, serta pemahaman konsep analisis teknis.
 
 ## 9. Catatan & Bukti Sinkronisasi Git
-* **URL Repositori Remote:** https://github.com/mfaktakusuma/basisdata-5430092.git
-* **Kode Hash Commit:** 6a2b932
+* **URL Repositori Remote:** https://github.com/faktakusuma/akademik_096.git
+* **Kode Hash Commit:** e5a0ee2
 * **Keterangan Commit:** `p01: penyiapan lingkungan praktikum dan milestone proyek 1`
 
 ---
